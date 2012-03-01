@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow action="update" groupID="994EA72952B14CD0979BB08407959610" resource="Blog.Article" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="994EA72952B14CD0979BB08407959610" resource="Blog.Article" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="execute" groupID="994EA72952B14CD0979BB08407959610" resource="Blog.Article" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="promote" groupID="994EA72952B14CD0979BB08407959610" resource="Blog.Article" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="994EA72952B14CD0979BB08407959610" resource="Blog.Article" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>
