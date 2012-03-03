@@ -24,7 +24,7 @@ http://doc.wakanda.org/Wakanda-Studio0.Beta/help/Title/en/page2138.html
   "Start server", then open the index.html, and run it
 
 * In the browser:
-    1/ Login as an existing user
+    1/ Login as an existing user (use the login widget at the top-right)
     2/ Click the "New" button
     3/ Enter some data (task title, priority level)
     4/ Click the "Save" button
