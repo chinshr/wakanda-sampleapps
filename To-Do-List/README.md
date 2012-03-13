@@ -24,16 +24,16 @@ http://doc.wakanda.org/Wakanda-Studio0.Beta/help/Title/en/page2138.html
   "Start server", then open the index.html, and run it
 
 * In the browser:
-    1/ Login as an existing user (use the login widget at the top-right)
-    2/ Click the "New" button
-    3/ Enter some data (task title, priority level)
-    4/ Click the "Save" button
-    5/ Repeat steps 2-4 for each task
-    6/ Now, say you're back later:
+    1. Login as an existing user (use the login widget at the top-right)
+    2. Click the "New" button
+    3. Enter some data (task title, priority level)
+    4. Click the "Save" button
+    5. Repeat steps 2-4 for each task
+    6. Now, say you're back later:
     		Click the "Complete" checkbox of a task
     		Click "Save"
     			=> The task is move to the "Completed" list
-    7/ In the "Completed" tab, you'll find the task checked
+    7. In the "Completed" tab, you'll find the task checked
        "completed"
 
 Users can only see their own tasks. This is done by extending
