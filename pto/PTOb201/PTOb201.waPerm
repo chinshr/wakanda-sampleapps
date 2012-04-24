@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow action="create" groupID="557128753A0740FFBE3DCA74F47131A9" resource="PTOb201.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="557128753A0740FFBE3DCA74F47131A9" resource="PTOb201.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="557128753A0740FFBE3DCA74F47131A9" resource="PTOb201.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.PTO_Request" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.PTO_Request" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.PTO_Request" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.PTO_Request" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.Holiday" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="557128753A0740FFBE3DCA74F47131A9" resource="PTOb201.Holiday" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="557128753A0740FFBE3DCA74F47131A9" resource="PTOb201.Holiday" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="557128753A0740FFBE3DCA74F47131A9" resource="PTOb201.Holiday" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="execute" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.PTO_Request" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="promote" groupID="1BC4D462F92D4322B0FA59675778A21C" resource="PTOb201.PTO_Request" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.RequestLineItem" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.RequestLineItem" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.RequestLineItem" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="C697E951560743F4B43542AA464A8005" resource="PTOb201.RequestLineItem" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>
